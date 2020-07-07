@@ -1,0 +1,12 @@
+{
+  "name": "moja-marp-theme",
+  "version": "0.1.0",
+  "author": "Akira Shinohara <k017c1067@it-neec.jp>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
