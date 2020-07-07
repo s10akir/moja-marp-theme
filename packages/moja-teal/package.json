@@ -1,0 +1,22 @@
+{
+  "name": "@s10akir/marp-moja-teal",
+  "version": "0.1.0",
+  "author": "Akira Shinohara <k017c1067@it-neec.jp>",
+  "description": "moja-teal marp theme",
+  "license": "MIT",
+  "scripts": {
+    "build": "marp --theme-set ./themes -o index.html README.md",
+    "watch": "marp --theme-set ./themes -s -I ."
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/s10akir/moja-marp-theme.git",
+    "directory": "packages/moja-teal"
+  },
+  "dependencies": {
+    "@marp-team/marp-cli": "^0.18.2"
+  }
+}
