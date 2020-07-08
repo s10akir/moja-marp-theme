@@ -1,7 +1,8 @@
 {
   "name": "@s10akir/marp-moja-gecko",
   "version": "0.1.0",
-  "author": "Ryota Kobayashi <38117745+kobar9568@users.noreply.github.com>",
+  "author": "Akira Shinohara <k017c1067@it-neec.jp>",
+  "contributors": [ "Ryota Kobayashi <38117745+kobar9568@users.noreply.github.com>" ],
   "description": "moja-gecko marp theme",
   "license": "MIT",
   "scripts": {
